@@ -1,0 +1,1 @@
+#wrapping data and function in a single unit. So far we've already used encapsulation in all the previous codes.
