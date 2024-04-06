@@ -15,10 +15,11 @@ print("My age is",myAge)
 
 '''Store your first, middle and last name in three different variables and then print your full name using these variables'''
 
-first = "Ajmain "
+'''first = "Ajmain "
 middle = "Muhtady "
 last = "Joarder"
 print(first+middle+last)
-
+'''
 
 '''Answer which of these are invalid variable names: _nation 1record record1 record_one record-one record^one continue'''
+#1record, record^one, continue''', record-one are invalid variables.
